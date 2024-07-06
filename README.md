@@ -14,7 +14,7 @@
 - ★ **Strong familiarity with cross-browser issues and website optimization.**
 - ★ **Strong expertise in UI issues and responsive Web design.**
 - ★ **Proficiency in code optimization for increased productivity.**
-- ★ **An eager learner and team player with the capacity to perform effectively under pressure. Strong interpersonal and communication skills.**
+- ★ **An eager learner and team player who can perform effectively under pressure. Strong interpersonal and communication skills.**
 - ★ **Have good technical and analytical aptitude and a proactive attitude to problem-solving at work.**
 
 
@@ -23,7 +23,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/gourav-choudhary-635ab4193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gourav" height="30" width="40" /></a>
+<a href="linkedin.com/in/gourav-choudhary-635ab4193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gourav" height="30" width="40" /></a>
 </p>
  <br/><br/>
 
