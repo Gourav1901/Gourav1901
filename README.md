@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi  👋 I'm Gourav Choudhary</h1>
-<h3 align="center">Hello, I'm a web developer who has a solid track record of creating user-friendly and visually appealing web applications.
+<h3 align="center">Hello, I'm a web developer with a solid track record of creating user-friendly and visually appealing web applications.
 </h3>
-<img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
+<!-- <img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourav1901&label=Profile%20views&color=0e75b6&style=flat" alt="Gourav1901" /> </p>
-
+ -->
 
 
 - 🌱 I’m a **Full Stack Web Developer**
 
-- ★ **Tech stack : C, C++,MongoDB, SQL, Data Structure, HTML, CSS, JavaScript, Git, GitHub, DBMS.**
+- ★ **Tech stack: C, C++, MongoDB, SQL, Data Structure, HTML, CSS, JavaScript, Git, GitHub, DBMS.**
 - ★ **Strong familiarity with cross-browser issues and website optimization.**
 - ★ **Strong expertise in UI issues and responsive Web design.**
 - ★ **Proficiency in code optimization for increased productivity.**
