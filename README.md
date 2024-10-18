@@ -10,7 +10,7 @@
 
 - 🌱 I’m a **Full Stack Web Developer**
 
-- ★ **Tech stack: C, C++, Python, MongoDB, SQL, Data Structure, HTML, CSS, Tailwind, JavaScript, React.js, Git, GitHub.**
+- ★ **Tech stack: C, C++, Python, MongoDB, SQL, Data Structure and Algorithms, HTML, CSS, Tailwind, JavaScript, React.js, Git, GitHub.**
 - ★ **Strong familiarity with cross-browser issues and website optimization.**
 - ★ **Strong expertise in UI issues and responsive Web design.**
 - ★ **Proficiency in code optimization for increased productivity.**
